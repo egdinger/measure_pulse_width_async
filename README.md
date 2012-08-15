@@ -3,8 +3,9 @@ measure_pulse_width_async
 
 Sample code to measure the pulse width of a signal asynchronously using interupts and timers.
 
-This code is from another project I worked on. It is meant for an lpc1343 chip
-compiled using codered and the microbuilder.eu code.
+This code is from another project I worked on (https://github.com/PSU-AVT). It 
+is meant for an lpc1343 chip compiled using codered and the microbuilder.eu 
+code.
 
 It was originally designed to measure a pulse width from a Maxbotixs MB1040
 ultrasonic rangefinder and convert that pulse width into a distance.
